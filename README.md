@@ -5,7 +5,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/meetbikhani) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/meetbikhani) 
 
-## 📊 Leetcode 
+## 📊 DSA 
 <p align="center">
   <a href="https://leetcode.com/meetbikhani/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/Knight.gif" alt="jyot" height="200" width="200" /></a>
   <a href="https://leetcode.com/meetbikhani/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="jyot" height="200" width="200" /></a>
