@@ -16,6 +16,7 @@
 <p align="center">
   
   <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/meetbikhani?theme=dark&font=Nunito" />  
+  <img src="https://gfgstatscard.vercel.app/meetbikhani" alt="GFG stats" />
 </p>
 
 # 💻 Tech Stack:
