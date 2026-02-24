@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Full Stack Web Development (MERN)<br>👯 I’m looking to collaborate on Web Development projects <br>😎 Check out my [Portfolio](https://meetbikhani.vercel.app/) to see my projects and work!
+🌱 I’m currently learning real time Full Stack Web Development<br>👯 I’m looking to collaborate on Web Development projects <br>😎 Check out my [Portfolio](https://meetbikhani.vercel.app/) to see my projects and work!
 
 
 ## 🌐 Socials:
